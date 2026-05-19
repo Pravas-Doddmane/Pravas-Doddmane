@@ -83,7 +83,7 @@
 ---
 
 ## 🚀 Projects
-
+---
 ### 🌐 Student Management System
 
 Production-style Student Management System built using Spring Boot and PostgreSQL.
@@ -105,6 +105,30 @@ Production-style Student Management System built using Spring Boot and PostgreSQ
 
 📌 GitHub Repository:  
 https://github.com/Pravas-Doddmane/Student-Management-System-Spring-Boot-and-React-simple-Project-
+
+---
+### ⚙️ DevOps Project - Contact Information Form
+
+Full-stack Node.js application that collects contact details through a web form and displays submitted information.
+
+🔹 Built using Node.js, Express, HTML, and CSS  
+🔹 Docker support for containerized deployment  
+🔹 Kubernetes manifests configured with Minikube  
+🔹 Jenkins-friendly setup for automation testing  
+🔹 Beginner-friendly DevOps project demonstrating deployment workflow  
+
+#### 🛠 Tech Stack
+- Node.js
+- Express.js
+- HTML5
+- CSS3
+- Docker
+- Kubernetes
+- Minikube
+- Jenkins
+
+📌 GitHub Repository:  
+https://github.com/Pravas-Doddmane/DevOps-Project-Contact-Information-Form
 
 ---
 
