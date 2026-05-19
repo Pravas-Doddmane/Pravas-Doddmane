@@ -84,19 +84,6 @@
 
 ## 🚀 Projects
 
-### 📱 DSCE The Unofficial App
-Android application built for DSCE students to access college-related resources and updates.
-
-🔹 Developed using Java, XML, and Firebase  
-🔹 Implemented authentication and real-time database integration  
-🔹 Responsive UI with search functionality  
-🔹 Achieved 200+ installs on Google Play Store  
-
-📌 Play Store:  
-https://play.google.com/store/apps/details?id=com.devdroid.dsceunofficial
-
----
-
 ### 🌐 Student Management System
 
 Production-style Student Management System built using Spring Boot and PostgreSQL.
