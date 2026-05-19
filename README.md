@@ -22,10 +22,7 @@
   <a href="https://www.instagram.com/pravas_doddmane_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <a href="mailto:pravasdoddmane@gamil.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
@@ -82,3 +79,68 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📱 DSCE The Unofficial App
+Android application built for DSCE students to access college-related resources and updates.
+
+🔹 Developed using Java, XML, and Firebase  
+🔹 Implemented authentication and real-time database integration  
+🔹 Responsive UI with search functionality  
+🔹 Achieved 200+ installs on Google Play Store  
+
+📌 Play Store:  
+https://play.google.com/store/apps/details?id=com.devdroid.dsceunofficial
+
+---
+
+### 🌐 Student Management System
+
+Production-style Student Management System built using Spring Boot and PostgreSQL.
+
+🔹 RESTful APIs with Spring Boot  
+🔹 PostgreSQL database integration  
+🔹 CRUD operations with validation and exception handling  
+🔹 React frontend integration  
+🔹 Internship-ready backend architecture  
+
+#### 🛠 Tech Stack
+- Java 17
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- React
+- HTML, CSS, JavaScript
+
+📌 GitHub Repository:  
+https://github.com/Pravas-Doddmane/Student-Management-System-Spring-Boot-and-React-simple-Project-
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place — MTD Marathon Android App Development Hackathon (Mar 2026)**
+
+🔹 Won 1st Place in a 4-hour Android App Development Hackathon  
+🔹 Built and deployed the Personal Diary application  
+🔹 Worked in a 3-member team  
+🔹 Successfully published the app on Google Play Store  
+
+---
+
+## 📜 Certifications
+
+- 🧠 **Deep Learning — NPTEL (IIT Ropar, coordinated by IIT Madras)**  
+  12-week course covering neural networks, CNNs, RNNs, attention mechanisms, and optimization techniques.
+
+- ☕ **Java Spring Framework, Spring Boot & Spring AI — Udemy (Telusko)**  
+  55-hour course focused on REST APIs and backend development.
+
+- ☁️ **Foundations of Google Cloud Computing — Google Skills**  
+  Cloud infrastructure and deployment fundamentals.
+
+---
