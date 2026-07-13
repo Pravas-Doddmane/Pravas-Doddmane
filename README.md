@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Engineering Student</b><br/>
-  Android App Developer | Java Backend Developer | AI Enthusiast<br/>
+  Android App Developer | Java Full Stack Developer | AI Enthusiast<br/>
   📍 Bangalore, India
 </p>
 
